@@ -25,5 +25,7 @@ DISCORD_BOT_TOKEN=SBI1MDI0NzUyNDQ3NzgyOTEz.YF36LQ.Sw-rczOfalK0lVzuW8vBjjcnsy0
 OPENSEA_TOKEN=some-key-here
 ```
 
+Then you are all set to run it and get Opensea sales notifications directly to your discord channel. 
+
 *NOTE: YOU WILL NEED AN OPENSEA API KEY, you can apply for one here. (https://docs.opensea.io/reference/request-an-api-key).
 
